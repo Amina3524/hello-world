@@ -7,5 +7,6 @@ int main() {
      char name[100];
      scanf("%s", &name);
      printf("hello, %s", name) ;
+     printf("we fixed an error here for example");
 
 }
