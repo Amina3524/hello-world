@@ -8,5 +8,6 @@ int main() {
      scanf("%s", &name);
      printf("hello, %s.I hope you are good!", name) ;
      printf("we fixed an error here for example");
+     printf("fix");
 
 }
